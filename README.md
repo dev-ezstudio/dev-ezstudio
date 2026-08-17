@@ -29,6 +29,30 @@
 | **AI automation** | Workflow, bot และ AI integrations ที่ตัดงานซ้ำของทีมออกไป |
 | **Infrastructure** | Deployment, Docker, Cloudflare, VPS และระบบที่พร้อมใช้งานต่อเนื่อง |
 
+## Selected systems
+
+งาน production ส่วนใหญ่เป็น private client work จึงสรุปเป็นประเภทระบบโดยไม่เปิดเผยข้อมูลของลูกค้า
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>PHP Platforms</strong><br /><br />
+      Business backends, APIs, dashboards และระบบจัดการข้อมูล<br /><br />
+      <code>PHP</code> <code>API</code> <code>MySQL</code>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Automation Engines</strong><br /><br />
+      Workflow orchestration, bots และการเชื่อม AI เข้ากับงานประจำ<br /><br />
+      <code>AI</code> <code>Workflow</code> <code>Integration</code>
+    </td>
+    <td width="33%" valign="top">
+      <strong>Deployment Systems</strong><br /><br />
+      ระบบ deploy, container และ infrastructure สำหรับงานที่ต้องทำงานต่อเนื่อง<br /><br />
+      <code>Docker</code> <code>Linux</code> <code>Cloudflare</code>
+    </td>
+  </tr>
+</table>
+
 ## How we work
 
 เริ่มจากการทำความเข้าใจงานที่ต้องการให้ไหลลื่นขึ้น แล้วออกแบบระบบที่เชื่อมคน ข้อมูล และเครื่องมือเข้าด้วยกันอย่างพอดี
@@ -40,6 +64,15 @@
 <p>
   <img src="https://skillicons.dev/icons?i=php,nextjs,react,ts,nodejs,python,postgres,mysql,docker,linux,cloudflare" alt="PHP, Next.js, React, TypeScript, Node.js, Python, PostgreSQL, MySQL, Docker, Linux, Cloudflare" />
 </p>
+
+## Live status
+
+<p>
+  <img src="https://img.shields.io/github/last-commit/dev-ezstudio/dev-ezstudio?style=flat-square&label=PROFILE%20SYNC&labelColor=121415&color=C8FF40" alt="Latest profile update" />
+  <img src="https://img.shields.io/github/actions/workflow/status/dev-ezstudio/dev-ezstudio/profile-dynamics.yml?branch=main&style=flat-square&label=PROFILE%20AUTOMATION&labelColor=121415&color=5DE2E7" alt="Profile automation status" />
+</p>
+
+`NOW` Building PHP systems · Connecting AI workflows · Shipping reliable infrastructure
 
 ---
 
