@@ -3,6 +3,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/ez-studio-signal-flow.gif" alt="Animated signal flow from PHP to AI automation and infrastructure" width="100%" />
+</p>
+
+<p align="center">
   <a href="#what-we-build"><img src="https://img.shields.io/badge/PHP_DEVELOPMENT-SERVICE-C8FF40?style=flat-square" alt="PHP development service" /></a>
   <a href="#what-we-build"><img src="https://img.shields.io/badge/AI_AUTOMATION-SERVICE-5DE2E7?style=flat-square" alt="AI automation service" /></a>
   <a href="#what-we-build"><img src="https://img.shields.io/badge/INFRASTRUCTURE-SERVICE-FF7A45?style=flat-square" alt="Infrastructure service" /></a>
