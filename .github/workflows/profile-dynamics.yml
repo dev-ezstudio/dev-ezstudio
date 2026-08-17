@@ -29,8 +29,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            assets/github-contribution-grid-snake.svg
-            assets/github-contribution-grid-snake-dark.svg?palette=github-dark
+            assets/github-contribution-grid-snake.svg?color_snake=%23C8FF40&color_dots=%23EBEEF0,%235DE2E7,%23C8FF40,%23FFB38F,%23FF7A45
+            assets/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23C8FF40&color_dots=%2321262D,%233A4340,%235DE2E7,%23C8FF40,%23FF7A45
 
       - name: Commit generated assets
         shell: bash
