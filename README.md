@@ -74,6 +74,14 @@
 
 `NOW` Building PHP systems · Connecting AI workflows · Shipping reliable infrastructure
 
+## Contribution flow
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-contribution-grid-snake.svg" />
+  <img src="./assets/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+</picture>
+
 ---
 
 <p align="center"><sub>Built in Thailand. Working remotely.</sub></p>
